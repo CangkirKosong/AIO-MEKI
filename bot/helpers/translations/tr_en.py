@@ -6,10 +6,10 @@ class EN(object):
 # BASICS
 #
 #----------------
-    WELCOME_MSG = "Hello {} <b> i'm Bot Qobuz Tidal Downloader</b>\nUse /d [url] for start Download\nJoin https://t.me/+dn80O9cdSrE2NzUy\n<b>Don't forget @trakteran to help keep this bot running</b>"
+    WELCOME_MSG = "Hello {} <b>i'm Bot Qobuz Tidal Downloader</b>\n\nUse /d [url] for start Download\n<b>Don't forget @trakteran to help keep this bot running</b>"
     START_DOWNLOAD = "Donwload start\nPlease Wait.....⏳"
     ANTI_SPAM_WAIT = "Wait for the current task to complete!"
-    TASK_COMPLETED = "ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴘʟᴇᴛᴇᴅ\n@trakteran"   
+    TASK_COMPLETED = "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘𝗗"   
     SONG_COPY_EXIST = 'Song already downloaded exist'
     SONG_COPY_EXIST_INFO = """
 <b>ITEM NO - {}</b>
