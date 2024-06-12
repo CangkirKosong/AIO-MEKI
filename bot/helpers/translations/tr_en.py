@@ -6,8 +6,8 @@ class EN(object):
 # BASICS
 #
 #----------------
-    WELCOME_MSG = "Hello {} Sir"
-    START_DOWNLOAD = "Please Wait....."
+    WELCOME_MSG = "Hello {} <b> i'm Bot Qobuz Tidal Downloader</b>\nUse /d [url] for start Download\nJoin https://t.me/+dn80O9cdSrE2NzUy\n<b>Don't forget @trakteran to help keep this bot running</b>"
+    START_DOWNLOAD = "Donwload start\nPlease Wait.....⏳"
     ANTI_SPAM_WAIT = "Wait for the current task to complete!"
     TASK_COMPLETED = "ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴘʟᴇᴛᴇᴅ\n@trakteran"   
     SONG_COPY_EXIST = 'Song already downloaded exist'
